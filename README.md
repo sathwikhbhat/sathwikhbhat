@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathwikhbhat" alt="sathwikhbhat" /></a> </p>
 
-- 🔭 I’m currently working on [building Mario from scratch](https://github.com/sathwikhbhat/Mario)
+- 🔭 I’m currently working on building [Mario](https://github.com/sathwikhbhat/Mario) from scratch 
 
 - 🌱 I’m currently learning **Android Development**
 
