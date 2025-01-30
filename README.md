@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathwikhbhat" alt="sathwikhbhat" /></a> </p>
 
-- 🔭 I’m currently working on building [Mario](https://github.com/sathwikhbhat/Mario)  from scratch
+- 🔭 I’m currently working on [building Mario from scratch](https://github.com/sathwikhbhat/Mario)
 
 - 🌱 I’m currently learning **Android Development**
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sathwikhbhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathwikhbhat" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sathwikhbhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sathwikhbhat" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/29104645/sathwikhbhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29104645/sathwikhbhat" height="30" width="40" /></a>
 <a href="https://instagram.com/sathwikhbhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sathwikhbhat" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sathwikhbhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sathwikhbhat" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sathwikhbhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sathwikhbhat" height="30" width="40" /></a>
