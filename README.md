@@ -39,16 +39,9 @@
 <br>
 
 ## 📊 GitHub Stats:
-<table width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="left" style="width: 33%; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=sathwikhbhat&show_icons=true&locale=en" alt="sathwikhbhat" />
-    </td>
-    <td align="center" style="width: 33%; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sathwikhbhat&show_icons=true&locale=en&layout=compact" alt="sathwikhbhat" />
-    </td>
-    <td align="right" style="width: 33%; padding: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikhbhat&" alt="sathwikhbhat" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sathwikhbhat&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sathwikhbhat&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikhbhat&" alt="GitHub Streak" />
+</p>
+
