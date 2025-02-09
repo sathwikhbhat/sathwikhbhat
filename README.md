@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sathwikhbhat&label=Profile%20views&color=0e75b6&style=flat" alt="sathwikhbhat" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathwikhbhat" alt="sathwikhbhat" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=sathwikhbhat&theme=algolia&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🏫 I'm pursuing **B.tech in CSE (Core) at Manipal Institute of Technology**
 - 🔭 I’m developing [Mario Game](https://github.com/sathwikhbhat/Mario) from the ground up using Java, OpenGL, and LWJGL.
@@ -26,7 +26,7 @@
 
 <br>
 
-## 💻 Tech Stack:
+## 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -42,8 +42,8 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathwikhbhat&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sathwikhbhat&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikhbhat&" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sathwikhbhat&show_icons=true&locale=en&theme=nightowl&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sathwikhbhat&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikhbhat&theme=nightowl&hide_border=false" alt="GitHub Streak" />
 </p>
 
