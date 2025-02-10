@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning **Android Development** and **Data Structures and Algorithms**
 - 👯 I look forward to **collaborating on open-source projects that offer learning opportunities**
 - 👀 I’m interested in **Software Development and Cyber Security**
+- 🏆 **Coding Contest Rating:** 1.5k
+- 🎖 **GeeksforGeeks MIT Bangalore Rank:** 9
 
 <br>
 
