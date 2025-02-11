@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sathwikhbhat&label=Profile%20views&color=0e75b6&style=flat" alt="sathwikhbhat" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sathwikhbhat&theme=algolia&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sathwikhbhat&theme=radical&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🏫 I'm pursuing **B.tech in CSE (Core) at Manipal Institute of Technology**
 - 🔭 I’m developing [Mario Game](https://github.com/sathwikhbhat/Mario) from the ground up using Java, OpenGL, and LWJGL.
@@ -44,8 +44,8 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathwikhbhat&show_icons=true&locale=en&theme=nightowl&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sathwikhbhat&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=false" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikhbhat&theme=nightowl&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sathwikhbhat&show_icons=true&locale=en&theme=radical&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sathwikhbhat&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikhbhat&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
