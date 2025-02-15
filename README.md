@@ -19,7 +19,7 @@
 
 <p align="left">
   <a href="mailto:sathwikhbhat@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="24" width="32" border="0" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="26" width="32" border="0" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/sathwikhbhat" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
