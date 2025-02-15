@@ -16,33 +16,34 @@
 <br>
 
 ## 📬 Connect with Me:
+
 <p align="left">
-  <a href="mailto:sathwikhbhat@gmail.com" target="blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="24" width="32" />
-  </a> 
-
-  <a href="https://linkedin.com/in/sathwikhbhat" target="blank" style="text-decoration: none; margin-left: 12px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  <a href="mailto:sathwikhbhat@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="24" width="32" border="0" />
   </a>
-
-  <a href="https://stackoverflow.com/users/29104645/sathwikhbhat" target="blank" style="text-decoration: none; margin-left: 12px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" />
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sathwikhbhat" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" border="0" />
   </a>
-
-  <a href="https://instagram.com/sathwikhbhat" target="blank" style="text-decoration: none; margin-left: 12px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  &nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/29104645/sathwikhbhat" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" border="0" />
   </a>
-
-  <a href="https://codeforces.com/profile/sathwikhbhat" target="blank" style="text-decoration: none; margin-left: 12px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" />
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/sathwikhbhat" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" border="0" />
   </a>
-
-  <a href="https://www.leetcode.com/sathwikhbhat" target="blank" style="text-decoration: none; margin-left: 12px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/sathwikhbhat" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" border="0" />
   </a>
-
-  <a href="https://auth.geeksforgeeks.org/user/sathwikhbhat/profile" target="blank" style="text-decoration: none; margin-left: 12px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="33" width="44" />
+  &nbsp;&nbsp;
+  <a href="https://www.leetcode.com/sathwikhbhat" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" border="0" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/sathwikhbhat/profile" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="33" width="44" border="0" />
   </a>
 </p>
 
