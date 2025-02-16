@@ -80,7 +80,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sathwikhbhat&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=false" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sathwikhbhat&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=false" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikhbhat&theme=chartreuse-dark&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathwikhbhat&bg_color=000000&color=00ff00&line=00ffee&point=00ffcc&area=true&hide_border=false" />
-</p>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathwikhbhat&bg_color=000000&color=00ff00&line=008cff&point=0078e6&area=true&hide_border=false" />
 </p>
