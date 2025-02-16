@@ -83,6 +83,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathwikhbhat&bg_color=000000&color=00ff00&line=00ffee&point=00ffcc&area=true&hide_border=false" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0000ff,100:ff00ff&text=Thanks%20for%20reading%20the%20readme.&textBg=false&animation=scaleIn&fontSize=30&section=footer&fontAlignY=70&fontColor=FFFFFF&fontType=Thin" />
 </p>
