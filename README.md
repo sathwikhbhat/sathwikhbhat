@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sathwik Hejamady Bhat</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0000ff,100:ff00ff&text=Hi%20👋,%20I'm%20Sathwik%20Hejamady%20Bhat&textBg=false&animation=scaleIn&fontSize=50&section=header&fontAlignY=40&fontColor=FFFFFF&fontType=Thin" />
+</p>
+
 <h3 align="center">A Passionate Developer from India</h3>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sathwikhbhat&label=Profile%20views&color=0e75b6&style=flat" alt="sathwikhbhat" /> </p>
 
@@ -80,3 +84,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathwikhbhat&bg_color=000000&color=00ff00&line=00ffee&point=00ffcc&area=true&hide_border=false" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0000ff,100:ff00ff&text=Thanks%20for%20reading%20the%20readme.&textBg=false&animation=scaleIn&fontSize=30&section=footer&fontAlignY=70&fontColor=FFFFFF&fontType=Thin" />
+</p>
