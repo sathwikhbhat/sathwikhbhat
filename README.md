@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:0000ff,100:ff00ff&text=Hi👋,%20I'm%20Sathwik%20Hejamady%20Bhat&textBg=false&animation=twinkling&fontSize=50&section=header&fontAlignY=40&fontColor=FFFFFF&fontType=Thin" />
 </p>
 
-<h1 align="center">A Passionate Developer from India</h1>
+<h1 align="center">A Passionate back End Java Developer from India</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sathwikhbhat&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="sathwikhbhat" /> </p>
 
