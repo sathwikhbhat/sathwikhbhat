@@ -2,19 +2,27 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:0000ff,100:ff00ff&text=Hi👋,%20I'm%20Sathwik%20Hejamady%20Bhat&textBg=false&animation=twinkling&fontSize=50&section=header&fontAlignY=40&fontColor=FFFFFF&fontType=Thin" />
 </p>
 
-<h1 align="center">A Passionate Back End Java Developer from India</h1>
+<h1 align="center">A Passionate Developer from India</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sathwikhbhat&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="sathwikhbhat" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sathwikhbhat&theme=matrix&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🏫 I'm pursuing **B.tech in CSE (Core) at Manipal Institute of Technology**
-- 🔭 I’m developing [Mario Game](https://github.com/sathwikhbhat/Mario) from the ground up using Java, OpenGL, and LWJGL.
-- 🌱 I’m currently learning **Android Development** and **Data Structures and Algorithms**
+- 🔭 I’m developing [**Mario Game**](https://github.com/sathwikhbhat/Mario) from the ground up using Java, OpenGL, and LWJGL.
+- 🌱 I’m currently learning **Android Development**, **Spring Boot** and **Data Structures and Algorithms**
 - 👯 I look forward to **collaborating on open-source projects that offer learning opportunities**
-- 👀 I’m interested in **Software Development and Cyber Security**
-- 🏆 **Coding Contest Rating:** 1.5k
-- 🎖 **GeeksforGeeks MIT Bangalore Rank:** 9
+- 👀 I’m interested in **Software Development**
+- 🏆 I have achieved a **Coding Contest Rating of 1.5k**
+- 🎖 I’m currently ranked **9th** among the top coders at MIT Bangalore
+
+<br>
+
+## 🎯 Current Focus
+- Deepening my knowledge of **Data Structures & Algorithms**
+- Building a portfolio of **Android applications**
+- Contributing to open-source **Java libraries**
+- Exploring **Spring Boot** for Backend Development
 
 <br>
 
