@@ -87,14 +87,24 @@
 
 | Project Name                        | Pull Request                                      | Description                                           | Language | Status    | Date             |
 |:-----------------------------------:|:-------------------------------------------------:|:-----------------------------------------------------:|:--------:|:---------:|:----------------:|
-| [Comixed](https://github.com/comixed/comixed) | [PR #2360](https://github.com/comixed/comixed/pull/2360) | Upgrade Runtime Dependency to JDK 21 on all Platforms | Java | Completed | 07th March 2025 |
+| [Comixed](https://github.com/comixed/comixed) | [PR #2360](https://github.com/comixed/comixed/pull/2360) | Upgrade Runtime Dependency to JDK 21 on all Platforms | Java     | Completed | 07th March 2025 |
+| *More exciting projects*            | *Coming soon*                                     | *Stay tuned for updates!*                             | -        | In Progress | -                |
 
 <br>
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathwikhbhat&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sathwikhbhat&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=false" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikhbhat&theme=chartreuse-dark&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathwikhbhat&bg_color=000000&color=00ff00&line=008cff&point=0078e6&area=true&hide_border=false" />
+  <!-- Row 1: Stats, Languages, Streak -->
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=sathwikhbhat&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=false" width="300" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sathwikhbhat&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=false" width="300" alt="Top Languages" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikhbhat&theme=chartreuse-dark&hide_border=false" width="300" alt="GitHub Streak" /></td>
+    </tr>
+  </table>
+  <br>
+  <!-- Row 2: Contribution Graph -->
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathwikhbhat&bg_color=000000&color=00ff00&line=008cff&point=0078e6&area=true&hide_border=false" width="900" alt="Activity Graph" />
+  </p>
 </p>
