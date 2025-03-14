@@ -88,7 +88,8 @@
 | Project Name                        | Pull Request                                      | Description                                           | Language | Status    | Date             |
 |:-----------------------------------:|:-------------------------------------------------:|:-----------------------------------------------------:|:--------:|:---------:|:----------------:|
 | [Comixed](https://github.com/comixed/comixed) | [PR #2360](https://github.com/comixed/comixed/pull/2360) | Upgrade Runtime Dependency to JDK 21 on all Platforms | Java     | Completed | 07th March 2025 |
-| *More exciting projects*            | *Coming soon*                                     | *Stay tuned for updates!*                             | -        | In Progress | -                |
+
+*More exciting open-source Contributions Coming Soon*
 
 <br>
 
