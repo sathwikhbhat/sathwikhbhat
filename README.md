@@ -21,7 +21,7 @@
 ## 🎯 Current Focus
 - Deepening my knowledge of **Data Structures & Algorithms**
 - Building a portfolio of **Android applications**
-- Contributing to open-source **Java libraries**
+- Contributing to open-source **Java Projects** on GitHub
 - Exploring **Spring Boot** for Backend Development
 
 <br>
