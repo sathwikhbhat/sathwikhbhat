@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sathwikhbhat&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="sathwikhbhat" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sathwikhbhat&theme=matrix&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sathwikhbhat&theme=matrix&margin-w=15&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🏫 I'm pursuing **B.tech in CSE (Core) at Manipal Institute of Technology**
 - 🔭 I’m developing [**Mario Game**](https://github.com/sathwikhbhat/Mario) from the ground up using Java, OpenGL, and LWJGL.
