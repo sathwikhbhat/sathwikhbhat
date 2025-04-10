@@ -41,6 +41,10 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" border="0" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://app.daily.dev/sathwikhbhat" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+    <img src="https://play-lh.googleusercontent.com/ZejAkIHFw3knpmq77o6jJd9yDmzoqWOU-GmHZDIpxMjm8V30_WbR06VASibWPSxjc-W1" alt="dailydev" height="33" width="44" border="0" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://instagram.com/sathwikhbhat" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" border="0" />
   </a>
@@ -56,6 +60,7 @@
   <a href="https://auth.geeksforgeeks.org/user/sathwikhbhat/profile" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="33" width="44" border="0" />
   </a>
+  
 </p>
 
 <br>
