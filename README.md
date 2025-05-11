@@ -108,7 +108,7 @@
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=sathwikhbhat&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=false" width="350" alt="GitHub Stats" /></td>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikhbhat&theme=chartreuse-dark&hide_border=false" width="350" alt="GitHub Streak" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sathwikhbhat&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=false" width="300" alt="Top Languages" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sathwikhbhat&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=false&count_private=true&include_all_commits=true" width="300" alt="Top Languages" /></td>
     </tr>
   </table>
   <br>
