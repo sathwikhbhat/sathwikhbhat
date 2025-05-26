@@ -8,11 +8,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sathwikhbhat&theme=matrix&margin-w=15&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🏫 I'm pursuing **B.tech in CSE (Core) at Manipal Institute of Technology**
+- 🏫 I'm pursuing **B.Tech in CSE (Core) at Manipal Institute of Technology, Bangalore**
 - 🔭 I’m developing [**Mario Game**](https://github.com/sathwikhbhat/Mario) from the ground up using Java, OpenGL, and LWJGL.
 - 🌱 I’m currently learning **Android Development**, **Spring Boot** and **Data Structures and Algorithms**
 - 👯 I look forward to **collaborating on open-source projects that offer learning opportunities**
-- 👀 I’m interested in **Software Development**
+- 👀 I’m interested in **Software Development** and am currently working on **Java Full Stack Development**
 - 🏆 I have achieved a **Coding Contest Rating of 1.5k**
 - 🎖 I’m currently ranked **9th** among the top coders at MIT Bangalore
 
