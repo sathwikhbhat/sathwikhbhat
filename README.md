@@ -1,8 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:0000ff,100:ff00ff&text=Hi👋,%20I'm%20Sathwik%20Hejamady%20Bhat&textBg=false&animation=twinkling&fontSize=50&section=header&fontAlignY=40&fontColor=FFFFFF&fontType=Thin" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:0000ff,100:ff00ff&text=Hi👋,%20I'm%20Sathwik%20Hejamady%20Bhat&textBg=false&animation=twinkling&fontSize=40&section=header&fontAlignY=40&fontColor=FFFFFF&fontType=Thin" />
 </p>
 
-<h1 align="center">A Passionate Developer from India</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=750&lines=A+Passionate+Developer+from+India;Java+Full+Stack+%7C+Spring+Boot+%7C+Angular;Android+App+Dev+with+Kotlin+%26+Jetpack+Compose;Modern+Apps+%7C+Clean+Code+%7C+Scalable+Design;Always+Learning+%E2%9C%A8+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sathwikhbhat&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="sathwikhbhat" /> </p>
 
@@ -124,4 +128,10 @@
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathwikhbhat&bg_color=000000&color=00ff00&line=008cff&point=0078e6&area=true&hide_border=false" width="900" alt="Activity Graph" />
   </p>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sathwikhbhat">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Let's+Build+Something+Awesome+Together!;Tap+on+This+to+Reach+Out" alt="Call to Action" />
+  </a>
 </p>
