@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/sathwikhbhat">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=750&lines=A+Passionate+Developer+from+India;Java+Full+Stack+%7C+Spring+Boot+%7C+Angular;Android+App+Dev+with+Kotlin+%26+Jetpack+Compose;Modern+Apps+%7C+Clean+Code+%7C+Scalable+Design;Always+Learning+%E2%9C%A8+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=820&lines=A+Passionate+Developer+from+India;Java+Full+Stack+%7C+Spring+Boot+%7C+Angular;Android+App+Dev+with+Kotlin+%26+Jetpack+Compose;Modern+Apps+%7C+Clean+Code+%7C+Scalable+Design;Always+Learning+%E2%9C%A8+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
