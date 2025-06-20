@@ -13,13 +13,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=sathwikhbhat&theme=matrix&margin-w=15&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🏫 I'm pursuing **B.Tech in CSE (Core) at Manipal Institute of Technology, Bangalore**
-- 🔭 I’m developing [**Mario Game**](https://github.com/sathwikhbhat/Mario) from the ground up using Java, OpenGL, and LWJGL.
 - 🌱 I’m currently learning **Android Development**, **Spring Boot** and **Data Structures and Algorithms**
 - 👯 I look forward to **collaborating on open-source projects that offer learning opportunities**
 - 👀 I’m interested in **Software Development** and am currently working on **Java Full Stack Development**
-- 🏆 I have achieved a **Coding Contest Rating of 1.5k**
-- 🎖 I’m currently ranked **9th** among the top coders at MIT Bangalore
-
+- ⚙️ Passionate about crafting **Robust Backend Systems** with clean architecture, scalable APIs, and secure authentication.
+- 🧠 Big on **learning-by-doing** – most of my projects are built from scratch to understand the internals of the tech I use.
+  
 <br>
 
 ## 🎯 Current Focus
@@ -41,16 +40,20 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" border="0" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://instagram.com/sathwikhbhat" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" border="0" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/sathwikhbhat" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/x.svg" alt="x" height="30" width="40" border="0" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/29104645/sathwikhbhat" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" border="0" />
   </a>
   &nbsp;&nbsp;
   <a href="https://app.daily.dev/sathwikhbhat" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
     <img src="https://play-lh.googleusercontent.com/ZejAkIHFw3knpmq77o6jJd9yDmzoqWOU-GmHZDIpxMjm8V30_WbR06VASibWPSxjc-W1" alt="dailydev" height="33" width="44" border="0" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/sathwikhbhat" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" border="0" />
   </a>
   &nbsp;&nbsp;
   <a href="https://codeforces.com/profile/sathwikhbhat" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
