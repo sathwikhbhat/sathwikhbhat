@@ -8,7 +8,9 @@
   </a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sathwikhbhat&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="sathwikhbhat" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sathwikhbhat&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="sathwikhbhat" />
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sathwikhbhat&theme=matrix&margin-w=15&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -17,10 +19,11 @@
 - 👯 I look forward to **collaborating on open-source projects that offer learning opportunities**
 - ⚙️ Passionate about crafting **Robust Backend Systems** with clean architecture, scalable APIs, and secure authentication.
 - 🧠 Big on **learning-by-doing** – most of my projects are built from scratch to understand the internals of the tech I use.
-  
+
 <br>
 
 ## 🎯 Current Focus
+
 - Deepening my knowledge of **Data Structures & Algorithms**
 - Building a portfolio of **Android applications**
 - Contributing to open-source **Java Projects** on GitHub
@@ -30,155 +33,170 @@
 
 # 🌐 Connect With Me
 
----
-
-### 📬 Socials & Contact
+## 📬 Socials & Contact
 _(Ping me, follow me, or just drop a hey!)_
 
 <p align="left">
   <a href="https://linkedin.com/in/sathwikhbhat" target="_blank" title="Connect on LinkedIn">
-    <img src="icons/linkedin.svg" width="30" alt="LinkedIn"/>
+    <img src="icons/linkedin.svg" width="40" alt="LinkedIn"/>
   </a>
+   &nbsp;&nbsp;
   <a href="mailto:sathwikhbhat@gmail.com" target="_blank" title="Send me an Email">
-    <img src="icons/gmail.svg" width="30" alt="Gmail"/>
+    <img src="icons/gmail.svg" width="40" alt="Gmail"/>
   </a>
+   &nbsp;&nbsp;
   <a href="https://x.com/sathwikhbhat" target="_blank" title="Follow me on X (Twitter)">
-    <img src="icons/x.svg" width="30" alt="X (formerly Twitter)"/>
+    <img src="icons/x.svg" width="40" alt="X (formerly Twitter)"/>
   </a>
+   &nbsp;&nbsp;
   <a href="https://instagram.com/sathwikhbhat" target="_blank" title="Check out my Instagram">
-    <img src="icons/instagram.svg" width="30" alt="Instagram"/>
+    <img src="icons/instagram.svg" width="40" alt="Instagram"/>
   </a>
+   &nbsp;&nbsp;
   <a href="https://t.me/sathwikhbhat" target="_blank" title="DM me on Telegram">
-    <img src="icons/telegram.svg" width="30" alt="Telegram"/>
+    <img src="icons/telegram.svg" width="40" alt="Telegram"/>
   </a>
 </p>
 
----
-
-### 🏁 Coding Platforms I’m Active On
+## 🏁 Coding Platforms I’m Active On
 _(Where I solve problems, compete, and level up 🚀)_
 
 <p align="left">
   <a href="https://leetcode.com/sathwikhbhat" target="_blank" title="LeetCode Profile">
-    <img src="icons/leet-code.svg" width="30" alt="LeetCode"/>
+    <img src="icons/leet-code.svg" width="40" alt="LeetCode"/>
   </a>
+   &nbsp;&nbsp;
   <a href="https://codeforces.com/profile/sathwikhbhat" target="_blank" title="Codeforces Profile">
-    <img src="icons/codeforces.svg" width="30" alt="Codeforces"/>
+    <img src="icons/codeforces.svg" width="40" alt="Codeforces"/>
   </a>
+   &nbsp;&nbsp;
   <a href="https://geeksforgeeks.org/user/sathwikhbhat/profile" target="_blank" title="GeeksForGeeks Profile">
-    <img src="icons/geeks-for-geeks.svg" width="30" alt="GeeksForGeeks"/>
+    <img src="icons/geeks-for-geeks.svg" width="40" alt="GeeksForGeeks"/>
   </a>
+   &nbsp;&nbsp;
   <a href="https://takeuforward.org/plus/profile/sathwikhbhat" target="_blank" title="TakeUForward+ Profile">
-    <img src="icons/tuf-plus.svg" width="30" alt="TUF Plus"/>
+    <img src="icons/tuf-plus.svg" width="40" alt="TUF Plus"/>
   </a>
+   &nbsp;&nbsp;
   <a href="https://codolio.com/profile/sathwikhbhat" target="_blank" title="Codolio DSA Tracker">
-    <img src="icons/codolio.svg" width="30" alt="Codolio (DSA Tracker)"/>
+    <img src="icons/codolio.svg" width="40" alt="Codolio (DSA Tracker)"/>
   </a>
 </p>
 
----
-
-### 🧠 Where I Learn & Hang Out
+## 🧠 Where I Learn & Hang Out
 _(A mix of learning, contributing, and casual dev scrolling)_
 
 <p align="left">
   <a href="https://stackoverflow.com/users/29104645/sathwikhbhat" target="_blank" title="Stack Overflow Profile">
-    <img src="icons/stack-overflow.svg" width="30" alt="Stack Overflow"/>
+    <img src="icons/stack-overflow.svg" width="40" alt="Stack Overflow"/>
   </a>
+   &nbsp;&nbsp;
   <a href="https://app.daily.dev/sathwikhbhat" target="_blank" title="daily.dev Feed">
-    <img src="icons/dailydev.svg" width="30" alt="Daily.dev"/>
+    <img src="icons/dailydev.svg" width="40" alt="Daily.dev"/>
   </a>
 </p>
-
 
 <br>
 
 # 🚀 Tech Stack
 
-### 🟢 Tier 1: Primary Stack — My Core Dev Environment
+## 🟢 Tier 1: Primary Stack — My Core Dev Environment
 
-#### 💻 Languages & Frameworks I Use Daily
+### 💻 Languages & Frameworks I Use Daily
 <p align="left">
-  <img src="icons/java.svg" width="30" alt="Java" title="Java"/>
-  <img src="icons/kotlin.svg" width="30" alt="Kotlin" title="Kotlin"/>
-  <img src="icons/ts.svg" width="30" alt="TypeScript" title="TypeScript"/>
-  <img src="icons/angular.svg" width="30" alt="Angular" title="Angular"/>
-  <img src="icons/spring.svg" width="30" alt="Spring Boot" title="Spring Boot"/>
-  <img src="icons/jetpack-compose.svg" width="30" alt="Jetpack Compose" title="Jetpack Compose"/>
+  <img src="icons/java.svg" width="40" alt="Java" title="Java"/>
+   &nbsp;&nbsp;
+  <img src="icons/kotlin.svg" width="40" alt="Kotlin" title="Kotlin"/>
+   &nbsp;&nbsp;
+  <img src="icons/ts.svg" width="40" alt="TypeScript" title="TypeScript"/>
+   &nbsp;&nbsp;
+  <img src="icons/angular.svg" width="40" alt="Angular" title="Angular"/>
+   &nbsp;&nbsp;
+  <img src="icons/spring.svg" width="40" alt="Spring Boot" title="Spring Boot"/>
+   &nbsp;&nbsp;
+  <img src="icons/jetpack-compose.svg" width="40" alt="Jetpack Compose" title="Jetpack Compose"/>
 </p>
 
-
-#### 🧰 Essential Dev Tools I Can’t Live Without
+### 🧰 Essential Dev Tools I Can’t Live Without
 <p align="left">
-  <img src="icons/intellij.svg" width="30" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
+  <img src="icons/intellij.svg" width="40" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
+   &nbsp;&nbsp;
   <img src="icons/webstorm.svg" width="49" alt="WebStorm" title="WebStorm"/>
-  <img src="icons/fleet.svg" width="30" alt="JetBrains Fleet" title="JetBrains Fleet"/>
-  <img src="icons/vscode.svg" width="30" alt="Visual Studio Code" title="Visual Studio Code"/>
-  <img src="icons/postman.svg" width="30" alt="Postman" title="Postman"/>
-  <img src="icons/git.svg" width="30" alt="Git" title="Git"/>
-  <img src="icons/docker.svg" width="30" alt="Docker" title="Docker"/>
+   &nbsp;&nbsp;
+  <img src="icons/fleet.svg" width="40" alt="JetBrains Fleet" title="JetBrains Fleet"/>
+   &nbsp;&nbsp;
+  <img src="icons/vscode.svg" width="40" alt="Visual Studio Code" title="Visual Studio Code"/>
+   &nbsp;&nbsp;
+  <img src="icons/postman.svg" width="40" alt="Postman" title="Postman"/>
+   &nbsp;&nbsp;
+  <img src="icons/git.svg" width="40" alt="Git" title="Git"/>
+   &nbsp;&nbsp;
+  <img src="icons/docker.svg" width="40" alt="Docker" title="Docker"/>
 </p>
 
+## 🟡 Tier 2: Supporting Tech — Integrations & Styling
 
----
-
-### 🟡 Tier 2: Supporting Tech — Integrations & Styling
-
-#### 🎨 UI Libraries & Styling Tools
+### 🎨 UI Libraries & Styling Tools
 <p align="left">
-  <img src="icons/html.svg" width="30" alt="HTML" title="HTML"/>
-  <img src="icons/css.svg" width="30" alt="CSS" title="CSS"/>
-  <img src="icons/js.svg" width="30" alt="JavaScript" title="JavaScript"/>
-  <img src="icons/bootstrap.svg" width="30" alt="Bootstrap" title="Bootstrap"/>
-  <img src="icons/tailwind-css.svg" width="30" alt="Tailwind CSS" title="Tailwind CSS"/>
-  <img src="icons/flowbite.svg" width="30" alt="Flowbite" title="Flowbite"/>
-  <img src="icons/thymeleaf.svg" width="30" alt="Thymeleaf" title="Thymeleaf"/>
+  <img src="icons/html.svg" width="40" alt="HTML" title="HTML"/>
+   &nbsp;&nbsp;
+  <img src="icons/css.svg" width="40" alt="CSS" title="CSS"/>
+   &nbsp;&nbsp;
+  <img src="icons/js.svg" width="40" alt="JavaScript" title="JavaScript"/>
+   &nbsp;&nbsp;
+  <img src="icons/bootstrap.svg" width="40" alt="Bootstrap" title="Bootstrap"/>
+   &nbsp;&nbsp;
+  <img src="icons/tailwind-css.svg" width="40" alt="Tailwind CSS" title="Tailwind CSS"/>
+   &nbsp;&nbsp;
+  <img src="icons/flowbite.svg" width="40" alt="Flowbite" title="Flowbite"/>
+   &nbsp;&nbsp;
+  <img src="icons/thymeleaf.svg" width="40" alt="Thymeleaf" title="Thymeleaf"/>
 </p>
 
-
-#### 🧠 Backend Integrations & Messaging
+### 🧠 Backend Integrations & Messaging
 <p align="left">
-  <img src="icons/hibernate.svg" width="28" alt="Hibernate" title="Hibernate"/>
+  <img src="icons/hibernate.svg" width="40" alt="Hibernate" title="Hibernate"/>
+   &nbsp;&nbsp;
   <img src="icons/apache-kafka.svg" width="50" alt="Apache Kafka" title="Apache Kafka"/>
 </p>
 
-
-#### 🗃️ Database Systems I’ve Worked With
+### 🗃️ Database Systems I’ve Worked With
 <p align="left">
-  <img src="icons/postgresql.svg" width="30" alt="PostgreSQL" title="PostgreSQL"/>
-  <img src="icons/mongodb.svg" width="30" alt="MongoDB" title="MongoDB"/>
-  <img src="icons/mysql.svg" width="30" alt="MySQL" title="MySQL"/>
-  <img src="icons/redis.svg" width="30" alt="Redis" title="Redis"/>
+  <img src="icons/postgresql.svg" width="40" alt="PostgreSQL" title="PostgreSQL"/>
+   &nbsp;&nbsp;
+  <img src="icons/mongodb.svg" width="40" alt="MongoDB" title="MongoDB"/>
+   &nbsp;&nbsp;
+  <img src="icons/mysql.svg" width="40" alt="MySQL" title="MySQL"/>
+   &nbsp;&nbsp;
+  <img src="icons/redis.svg" width="40" alt="Redis" title="Redis"/>
 </p>
 
-#### 🌐 Deployment & Hosting
+### 🌐 Deployment & Hosting
 <p align="left">
-  <img src="icons/heroku.svg" width="30" alt="Heroku" title="Heroku"/>
+  <img src="icons/heroku.svg" width="40" alt="Heroku" title="Heroku"/>
 </p>
 
-
-#### 🧼 Code Quality & Analysis
+### 🧼 Code Quality & Analysis
 <p align="left">
-  <img src="icons/sonarlint.svg" width="30" alt="SonarLint" title="SonarLint"/>
+  <img src="icons/sonarlint.svg" width="40" alt="SonarLint" title="SonarLint"/>
 </p>
 
+## 🔴 Tier 3: Learning / Academic / Experimental
 
----
-
-### 🔴 Tier 3: Learning / Academic / Experimental
-
-#### 📚 Academia & Legacy Languages
+### 📚 Academia & Legacy Languages
 <p align="left">
-  <img src="icons/python.svg" width="30" alt="Python" title="Python"/>
-  <img src="icons/c.svg" width="30" alt="C" title="C"/>
-  <img src="icons/cpp.svg" width="30" alt="C++" title="C++"/>
-  <img src="icons/jupyter.svg" width="30" alt="Jupyter Notebook" title="Jupyter Notebook"/>
+  <img src="icons/python.svg" width="40" alt="Python" title="Python"/>
+   &nbsp;&nbsp;
+  <img src="icons/c.svg" width="40" alt="C" title="C"/>
+   &nbsp;&nbsp;
+  <img src="icons/cpp.svg" width="40" alt="C++" title="C++"/>
+   &nbsp;&nbsp;
+  <img src="icons/jupyter.svg" width="40" alt="Jupyter Notebook" title="Jupyter Notebook"/>
 </p>
 
+<br>
 
----
-
-## 🫂 Open Source Contributions
+# 🫂 Open Source Contributions
 
 | Project Name                        | Pull Request                                      | Description                                           | Language | Status    | Date             |
 |:-----------------------------------:|:-------------------------------------------------:|:-----------------------------------------------------:|:--------:|:---------:|:----------------:|
@@ -188,9 +206,9 @@ _(A mix of learning, contributing, and casual dev scrolling)_
 
 <br>
 
-## 📊 GitHub Stats:
+# 📊 GitHub Stats
+
 <p align="center">
-  <!-- Row 1: Stats, Languages, Streak -->
   <table>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=sathwikhbhat&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=false" width="350" alt="GitHub Stats" /></td>
@@ -199,7 +217,6 @@ _(A mix of learning, contributing, and casual dev scrolling)_
     </tr>
   </table>
   <br>
-  <!-- Row 2: Contribution Graph -->
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathwikhbhat&bg_color=000000&color=00ff00&line=008cff&point=0078e6&area=true&hide_border=false" width="900" alt="Activity Graph" />
   </p>
