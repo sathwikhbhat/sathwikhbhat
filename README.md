@@ -34,36 +34,38 @@
 # 🌐 Connect With Me
 
 ## 📬 Socials & Contact
+
 _(Ping me, follow me, or just drop a hey!)_
 
 <p align="left">
   <a href="https://linkedin.com/in/sathwikhbhat" target="_blank" title="Connect on LinkedIn">
-    <img src="icons/linkedin.svg" width="40" alt="LinkedIn"/>
+    <img src="icons/linkedin.svg" width="30" alt="LinkedIn"/>
   </a>
    &nbsp;&nbsp;
   <a href="mailto:sathwikhbhat@gmail.com" target="_blank" title="Send me an Email">
-    <img src="icons/gmail.svg" width="40" alt="Gmail"/>
+    <img src="icons/gmail.svg" width="30" alt="Gmail"/>
   </a>
    &nbsp;&nbsp;
   <a href="https://x.com/sathwikhbhat" target="_blank" title="Follow me on X (Twitter)">
-    <img src="icons/x.svg" width="40" alt="X (formerly Twitter)"/>
+    <img src="icons/x.svg" width="30" alt="X (formerly Twitter)"/>
   </a>
    &nbsp;&nbsp;
   <a href="https://instagram.com/sathwikhbhat" target="_blank" title="Check out my Instagram">
-    <img src="icons/instagram.svg" width="40" alt="Instagram"/>
+    <img src="icons/instagram.svg" width="30" alt="Instagram"/>
   </a>
    &nbsp;&nbsp;
   <a href="https://t.me/sathwikhbhat" target="_blank" title="DM me on Telegram">
-    <img src="icons/telegram.svg" width="40" alt="Telegram"/>
+    <img src="icons/telegram.svg" width="30" alt="Telegram"/>
   </a>
 </p>
 
 ## 🏁 Coding Platforms I’m Active On
+
 _(Where I solve problems, compete, and level up 🚀)_
 
 <p align="left">
   <a href="https://leetcode.com/sathwikhbhat" target="_blank" title="LeetCode Profile">
-    <img src="icons/leet-code.svg" width="40" alt="LeetCode"/>
+    <img src="icons/leet-code.svg" width="30" alt="LeetCode"/>
   </a>
    &nbsp;&nbsp;
   <a href="https://codeforces.com/profile/sathwikhbhat" target="_blank" title="Codeforces Profile">
@@ -71,7 +73,7 @@ _(Where I solve problems, compete, and level up 🚀)_
   </a>
    &nbsp;&nbsp;
   <a href="https://geeksforgeeks.org/user/sathwikhbhat/profile" target="_blank" title="GeeksForGeeks Profile">
-    <img src="icons/geeks-for-geeks.svg" width="40" alt="GeeksForGeeks"/>
+    <img src="icons/geeks-for-geeks.svg" width="45" alt="GeeksForGeeks"/>
   </a>
    &nbsp;&nbsp;
   <a href="https://takeuforward.org/plus/profile/sathwikhbhat" target="_blank" title="TakeUForward+ Profile">
@@ -84,11 +86,12 @@ _(Where I solve problems, compete, and level up 🚀)_
 </p>
 
 ## 🧠 Where I Learn & Hang Out
+
 _(A mix of learning, contributing, and casual dev scrolling)_
 
 <p align="left">
   <a href="https://stackoverflow.com/users/29104645/sathwikhbhat" target="_blank" title="Stack Overflow Profile">
-    <img src="icons/stack-overflow.svg" width="40" alt="Stack Overflow"/>
+    <img src="icons/stack-overflow.svg" width="35" alt="Stack Overflow"/>
   </a>
    &nbsp;&nbsp;
   <a href="https://app.daily.dev/sathwikhbhat" target="_blank" title="daily.dev Feed">
@@ -103,6 +106,7 @@ _(A mix of learning, contributing, and casual dev scrolling)_
 ## 🟢 Tier 1: Primary Stack — My Core Dev Environment
 
 ### 💻 Languages & Frameworks I Use Daily
+
 <p align="left">
   <img src="icons/java.svg" width="40" alt="Java" title="Java"/>
    &nbsp;&nbsp;
@@ -118,10 +122,11 @@ _(A mix of learning, contributing, and casual dev scrolling)_
 </p>
 
 ### 🧰 Essential Dev Tools I Can’t Live Without
+
 <p align="left">
   <img src="icons/intellij.svg" width="40" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
    &nbsp;&nbsp;
-  <img src="icons/webstorm.svg" width="49" alt="WebStorm" title="WebStorm"/>
+  <img src="icons/webstorm.svg" width="40" alt="WebStorm" title="WebStorm"/>
    &nbsp;&nbsp;
   <img src="icons/fleet.svg" width="40" alt="JetBrains Fleet" title="JetBrains Fleet"/>
    &nbsp;&nbsp;
@@ -131,12 +136,13 @@ _(A mix of learning, contributing, and casual dev scrolling)_
    &nbsp;&nbsp;
   <img src="icons/git.svg" width="40" alt="Git" title="Git"/>
    &nbsp;&nbsp;
-  <img src="icons/docker.svg" width="40" alt="Docker" title="Docker"/>
+  <img src="icons/docker.svg" width="45" alt="Docker" title="Docker"/>
 </p>
 
 ## 🟡 Tier 2: Supporting Tech — Integrations & Styling
 
 ### 🎨 UI Libraries & Styling Tools
+
 <p align="left">
   <img src="icons/html.svg" width="40" alt="HTML" title="HTML"/>
    &nbsp;&nbsp;
@@ -154,29 +160,33 @@ _(A mix of learning, contributing, and casual dev scrolling)_
 </p>
 
 ### 🧠 Backend Integrations & Messaging
+
 <p align="left">
   <img src="icons/hibernate.svg" width="40" alt="Hibernate" title="Hibernate"/>
    &nbsp;&nbsp;
-  <img src="icons/apache-kafka.svg" width="50" alt="Apache Kafka" title="Apache Kafka"/>
+  <img src="icons/apache-kafka.svg" width="35" alt="Apache Kafka" title="Apache Kafka"/>
 </p>
 
 ### 🗃️ Database Systems I’ve Worked With
+
 <p align="left">
   <img src="icons/postgresql.svg" width="40" alt="PostgreSQL" title="PostgreSQL"/>
    &nbsp;&nbsp;
   <img src="icons/mongodb.svg" width="40" alt="MongoDB" title="MongoDB"/>
    &nbsp;&nbsp;
-  <img src="icons/mysql.svg" width="40" alt="MySQL" title="MySQL"/>
+  <img src="icons/mysql.svg" width="45" alt="MySQL" title="MySQL"/>
    &nbsp;&nbsp;
   <img src="icons/redis.svg" width="40" alt="Redis" title="Redis"/>
 </p>
 
 ### 🌐 Deployment & Hosting
+
 <p align="left">
   <img src="icons/heroku.svg" width="40" alt="Heroku" title="Heroku"/>
 </p>
 
 ### 🧼 Code Quality & Analysis
+
 <p align="left">
   <img src="icons/sonarlint.svg" width="40" alt="SonarLint" title="SonarLint"/>
 </p>
@@ -184,6 +194,7 @@ _(A mix of learning, contributing, and casual dev scrolling)_
 ## 🔴 Tier 3: Learning / Academic / Experimental
 
 ### 📚 Academia & Legacy Languages
+
 <p align="left">
   <img src="icons/python.svg" width="40" alt="Python" title="Python"/>
    &nbsp;&nbsp;
@@ -198,11 +209,11 @@ _(A mix of learning, contributing, and casual dev scrolling)_
 
 # 🫂 Open Source Contributions
 
-| Project Name                        | Pull Request                                      | Description                                           | Language | Status    | Date             |
-|:-----------------------------------:|:-------------------------------------------------:|:-----------------------------------------------------:|:--------:|:---------:|:----------------:|
-| [Comixed](https://github.com/comixed/comixed) | [PR #2360](https://github.com/comixed/comixed/pull/2360) | Upgrade Runtime Dependency to JDK 21 on all Platforms | Java     | Completed | 07th March 2025 |
+|                 Project Name                  |                       Pull Request                       |                      Description                      | Language |  Status   |      Date       |
+| :-------------------------------------------: | :------------------------------------------------------: | :---------------------------------------------------: | :------: | :-------: | :-------------: |
+| [Comixed](https://github.com/comixed/comixed) | [PR #2360](https://github.com/comixed/comixed/pull/2360) | Upgrade Runtime Dependency to JDK 21 on all Platforms |   Java   | Completed | 07th March 2025 |
 
-*More exciting open-source Contributions Coming Soon*
+_More exciting open-source Contributions Coming Soon_
 
 <br>
 
