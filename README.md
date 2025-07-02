@@ -39,23 +39,23 @@ _(Ping me, follow me, or just drop a hey!)_
 
 <p align="left">
   <a href="https://linkedin.com/in/sathwikhbhat" target="_blank" title="Connect on LinkedIn">
-    <img src="icons/linkedin.svg" width="30" alt="LinkedIn"/>
+    <img src="icons/linkedin.svg" width="37" alt="LinkedIn"/>
   </a>
    &nbsp;&nbsp;
   <a href="mailto:sathwikhbhat@gmail.com" target="_blank" title="Send me an Email">
-    <img src="icons/gmail.svg" width="30" alt="Gmail"/>
+    <img src="icons/gmail.svg" width="37" alt="Gmail"/>
   </a>
    &nbsp;&nbsp;
   <a href="https://x.com/sathwikhbhat" target="_blank" title="Follow me on X (Twitter)">
-    <img src="icons/x.svg" width="30" alt="X (formerly Twitter)"/>
+    <img src="icons/x.svg" width="37" alt="X (formerly Twitter)"/>
   </a>
    &nbsp;&nbsp;
   <a href="https://instagram.com/sathwikhbhat" target="_blank" title="Check out my Instagram">
-    <img src="icons/instagram.svg" width="30" alt="Instagram"/>
+    <img src="icons/instagram.svg" width="37" alt="Instagram"/>
   </a>
    &nbsp;&nbsp;
   <a href="https://t.me/sathwikhbhat" target="_blank" title="DM me on Telegram">
-    <img src="icons/telegram.svg" width="30" alt="Telegram"/>
+    <img src="icons/telegram.svg" width="37" alt="Telegram"/>
   </a>
 </p>
 
