@@ -207,16 +207,6 @@ _(A mix of learning, contributing, and casual dev scrolling)_
 
 <br>
 
-# 🫂 Open Source Contributions
-
-|                 Project Name                  |                       Pull Request                       |                      Description                      | Language |  Status   |      Date       |
-| :-------------------------------------------: | :------------------------------------------------------: | :---------------------------------------------------: | :------: | :-------: | :-------------: |
-| [Comixed](https://github.com/comixed/comixed) | [PR #2360](https://github.com/comixed/comixed/pull/2360) | Upgrade Runtime Dependency to JDK 21 on all Platforms |   Java   | Completed | 07th March 2025 |
-
-_More exciting open-source Contributions Coming Soon_
-
-<br>
-
 # 📊 GitHub Stats
 
 <p align="center">
