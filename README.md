@@ -14,20 +14,20 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sathwikhbhat&theme=matrix&margin-w=15&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🏫 I'm pursuing **B.Tech in CSE (Core) at Manipal Institute of Technology, Bangalore**
-- 🌱 I’m currently learning **Android Development**, **Spring Boot** and **Data Structures and Algorithms**
-- 👯 I look forward to **collaborating on open-source projects that offer learning opportunities**
-- ⚙️ Passionate about crafting **Robust Backend Systems** with clean architecture, scalable APIs, and secure authentication.
-- 🧠 Big on **learning-by-doing** – most of my projects are built from scratch to understand the internals of the tech I use.
+- 🏫 Pursuing **B.Tech in CSE (Core)** at Manipal Institute of Technology, Bangalore  
+- 🌱 Currently diving into **Android Development (Kotlin)**, **Spring Boot**, and **DSA**  
+- 👯 Eager to **collaborate on open-source projects** that challenge me and help me grow  
+- ⚙️ Passionate about building **robust backend systems** with clean architecture, scalable APIs, and secure auth  
+- 🧠 I learn best by **building things from scratch** – most of my projects aim to simplify and uncover the inner workings of the tech stack.
 
 <br>
 
 ## 🎯 Current Focus
 
-- Deepening my knowledge of **Data Structures & Algorithms**
-- Building a portfolio of **Android applications**
-- Contributing to open-source **Java Projects** on GitHub
-- Exploring **Spring Boot** for Backend Development
+- Mastering core **Data Structures & Algorithms** through problem-solving  
+- Building and refining a portfolio of **Android apps with real-world utility**  
+- Contributing to **Java-based open-source projects** on GitHub  
+- Deepening hands-on experience with **Spring Boot microservices and security**
 
 <br>
 
