@@ -223,7 +223,7 @@ _(A mix of learning, contributing, and casual dev scrolling)_
   </table>
   <br>
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathwikhbhat&bg_color=050f2c&color=fff&line=00a8f7&point=2dde98&area=true&hide_border=true" width="900" alt="Activity Graph" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathwikhbhat&theme=algolia" width="900" alt="Activity Graph" />
   </p>
 </p>
 
