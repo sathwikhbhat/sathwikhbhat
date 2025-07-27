@@ -12,21 +12,25 @@
   <img src="https://komarev.com/ghpvc/?username=sathwikhbhat&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="sathwikhbhat" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sathwikhbhat&theme=matrix&margin-w=15&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/sathwikhbhat">
+    <img src="https://github-profile-trophy.vercel.app/?username=sathwikhbhat&theme=algolia&margin-w=15&row=1&no-bg=true" />
+  </a>
+</p>
 
-- 🏫 Pursuing **B.Tech in CSE (Core)** at Manipal Institute of Technology, Bangalore  
-- 🌱 Currently diving into **Android Development (Kotlin)**, **Spring Boot**, and **DSA**  
-- 👯 Eager to **collaborate on open-source projects** that challenge me and help me grow  
-- ⚙️ Passionate about building **robust backend systems** with clean architecture, scalable APIs, and secure auth  
+- 🏫 Pursuing **B.Tech in CSE (Core)** at Manipal Institute of Technology, Bangalore
+- 🌱 Currently diving into **Android Development (Kotlin)**, **Spring Boot**, and **DSA**
+- 👯 Eager to **collaborate on open-source projects** that challenge me and help me grow
+- ⚙️ Passionate about building **robust backend systems** with clean architecture, scalable APIs, and secure auth
 - 🧠 I learn best by **building things from scratch** – most of my projects aim to simplify and uncover the inner workings of the tech stack.
 
 <br>
 
 ## 🎯 Current Focus
 
-- Mastering core **Data Structures & Algorithms** through problem-solving  
-- Building and refining a portfolio of **Android apps with real-world utility**  
-- Contributing to **Java-based open-source projects** on GitHub  
+- Mastering core **Data Structures & Algorithms** through problem-solving
+- Building and refining a portfolio of **Android apps with real-world utility**
+- Contributing to **Java-based open-source projects** on GitHub
 - Deepening hands-on experience with **Spring Boot microservices and security**
 
 <br>
@@ -212,19 +216,19 @@ _(A mix of learning, contributing, and casual dev scrolling)_
 <p align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=sathwikhbhat&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=false" width="350" alt="GitHub Stats" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikhbhat&theme=chartreuse-dark&hide_border=false" width="350" alt="GitHub Streak" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sathwikhbhat&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=false&count_private=true&include_all_commits=true" width="300" alt="Top Languages" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=sathwikhbhat&show_icons=true&locale=en&theme=algolia&hide_border=false" width="350" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikhbhat&theme=algolia&hide_border=false" width="350" alt="GitHub Streak" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sathwikhbhat&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=false&count_private=true&include_all_commits=true" width="300" alt="Top Languages" /></td>
     </tr>
   </table>
   <br>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathwikhbhat&bg_color=000000&color=00ff00&line=008cff&point=0078e6&area=true&hide_border=false" width="900" alt="Activity Graph" />
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathwikhbhat&bg_color=050f2c&color=fff&line=00a8f7&point=2dde98&area=true&hide_border=true" width="900" alt="Activity Graph" />
   </p>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/sathwikhbhat">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Let's+Build+Something+Awesome+Together!;Tap+on+This+to+Reach+Out" alt="Call to Action" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=1000&color=ff00ff&center=true&vCenter=true&width=500&lines=Let's+Build+Something+Awesome+Together!;Tap+on+This+to+Reach+Out" alt="Call to Action" />
   </a>
 </p>
