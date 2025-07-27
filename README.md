@@ -214,21 +214,18 @@ _(A mix of learning, contributing, and casual dev scrolling)_
 # 📊 GitHub Stats
 
 <p align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=sathwikhbhat&show_icons=true&locale=en&theme=algolia&hide_border=false" width="350" alt="GitHub Stats" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikhbhat&theme=algolia&hide_border=false" width="350" alt="GitHub Streak" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sathwikhbhat&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=false&count_private=true&include_all_commits=true" width="300" alt="Top Languages" /></td>
-    </tr>
-  </table>
-  <br>
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathwikhbhat&theme=algolia" width="900" alt="Activity Graph" />
-  </p>
+    <img src="https://github-readme-stats.vercel.app/api?username=sathwikhbhat&show_icons=true&locale=en&theme=algolia&hide_border=true&" width="350" height="180em" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sathwikhbhat&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" width="300" height="180em" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikhbhat&theme=algolia&hide_border=true" width="350" height="180em" alt="GitHub Streak" />
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathwikhbhat&theme=algolia" width="900" alt="Activity Graph" />
+</p>
+
+
+<p align="center">
   <a href="https://linkedin.com/in/sathwikhbhat">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=1000&color=ff00ff&center=true&vCenter=true&width=500&lines=Let's+Build+Something+Awesome+Together!;Tap+on+This+to+Reach+Out" alt="Call to Action" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=ff00ff&center=true&vCenter=true&width=500&lines=Let's+Build+Something+Awesome+Together!;Tap+on+This+to+Reach+Out" alt="Call to Action" />
   </a>
 </p>
