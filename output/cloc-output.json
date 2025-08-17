@@ -1,0 +1,48 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.98",
+  "elapsed_seconds"    : 0.124345064163208,
+  "n_files"            : 149,
+  "n_lines"            : 12276,
+  "files_per_second"   : 1198.27836354189,
+  "lines_per_second"   : 98725.2697371827},
+"Java" :{
+  "nFiles": 107,
+  "blank": 783,
+  "comment": 3,
+  "code": 3512},
+"JavaScript" :{
+  "nFiles": 23,
+  "blank": 545,
+  "comment": 509,
+  "code": 2683},
+"Python" :{
+  "nFiles": 9,
+  "blank": 364,
+  "comment": 328,
+  "code": 2079},
+"DOS Batch" :{
+  "nFiles": 4,
+  "blank": 116,
+  "comment": 34,
+  "code": 486},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 81,
+  "comment": 274,
+  "code": 390},
+"C" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 0,
+  "code": 51},
+"GLSL" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 1911,
+  "comment": 1148,
+  "code": 9217,
+  "nFiles": 149} }
