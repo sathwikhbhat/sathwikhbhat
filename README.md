@@ -35,6 +35,12 @@
 
 <br>
 
+ <!-- LANGUAGES BREAKDOWN START -->
+
+ <!-- LANGUAGES BREAKDOWN END -->
+
+ <br>
+
 # 🌐 Connect With Me
 
 ## 📬 Socials & Contact
