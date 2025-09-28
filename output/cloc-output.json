@@ -1,16 +1,16 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 0.124345064163208,
-  "n_files"            : 149,
-  "n_lines"            : 12276,
-  "files_per_second"   : 1198.27836354189,
-  "lines_per_second"   : 98725.2697371827},
+  "elapsed_seconds"    : 0.152868032455444,
+  "n_files"            : 192,
+  "n_lines"            : 13842,
+  "files_per_second"   : 1255.98528950754,
+  "lines_per_second"   : 90548.6894654346},
 "Java" :{
-  "nFiles": 107,
-  "blank": 783,
-  "comment": 3,
-  "code": 3512},
+  "nFiles": 147,
+  "blank": 1006,
+  "comment": 4,
+  "code": 4368},
 "JavaScript" :{
   "nFiles": 23,
   "blank": 545,
@@ -22,15 +22,15 @@
   "comment": 328,
   "code": 2079},
 "DOS Batch" :{
-  "nFiles": 4,
-  "blank": 116,
+  "nFiles": 5,
+  "blank": 140,
   "comment": 34,
-  "code": 486},
+  "code": 651},
 "Bourne Shell" :{
-  "nFiles": 3,
-  "blank": 81,
-  "comment": 274,
-  "code": 390},
+  "nFiles": 4,
+  "blank": 113,
+  "comment": 326,
+  "code": 601},
 "C" :{
   "nFiles": 2,
   "blank": 16,
@@ -41,8 +41,13 @@
   "blank": 6,
   "comment": 0,
   "code": 16},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
 "SUM": {
-  "blank": 1911,
-  "comment": 1148,
-  "code": 9217,
-  "nFiles": 149} }
+  "blank": 2190,
+  "comment": 1201,
+  "code": 10451,
+  "nFiles": 192} }
