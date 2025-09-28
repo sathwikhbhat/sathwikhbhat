@@ -233,7 +233,7 @@ _(A mix of learning, contributing, and casual dev scrolling)_
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sathwikhbhat&show_icons=true&locale=en&theme=algolia&hide_border=true&" width="350" height="180em" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sathwikhbhat&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" width="300" height="180em" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sathwikhbhat&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&hide=html,css,scss" width="300" height="180em" alt="Top Languages" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikhbhat&theme=algolia&hide_border=true" width="350" height="180em" alt="GitHub Streak" />
 </p>
 
