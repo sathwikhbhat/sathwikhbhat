@@ -39,16 +39,15 @@
 ```
 [ LANGUAGES BREAKDOWN ]
 
-Java            -->      4,368 lines
+Java            -->      5,315 lines
 JavaScript      -->      2,683 lines
 Python          -->      2,079 lines
 DOS Batch       -->        651 lines
 Bourne Shell    -->        601 lines
-C               -->         51 lines
+SQL             -->         40 lines
 GLSL            -->         16 lines
-SQL             -->          2 lines
 
-[ TOTAL LINES OF CODE: 10,451 ]
+[ TOTAL LINES OF CODE: 11,385 ]
 ```
  <!-- LANGUAGES BREAKDOWN END -->
 
