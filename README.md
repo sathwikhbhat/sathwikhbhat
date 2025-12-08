@@ -28,6 +28,22 @@ Right now, I am strengthening my core foundations by mastering Data Structures &
 <br>
 
  <!-- LANGUAGES BREAKDOWN START -->
+```
+[ LANGUAGES BREAKDOWN ]
+
+Java            -->      6,881 lines
+JavaScript      -->      2,461 lines
+Python          -->      2,079 lines
+JSX             -->      2,031 lines
+TypeScript      -->        670 lines
+DOS Batch       -->        585 lines
+Bourne Shell    -->        502 lines
+SQL             -->        129 lines
+Dockerfile      -->         23 lines
+Protocol Buffers -->         15 lines
+
+[ TOTAL LINES OF CODE: 15,376 ]
+```
  <!-- LANGUAGES BREAKDOWN END -->
 
  <br>
