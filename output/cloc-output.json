@@ -1,0 +1,63 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.98",
+  "elapsed_seconds"    : 0.238432884216309,
+  "n_files"            : 362,
+  "n_lines"            : 19462,
+  "files_per_second"   : 1518.24695318281,
+  "lines_per_second"   : 81624.6469691818},
+"Java" :{
+  "nFiles": 254,
+  "blank": 1673,
+  "comment": 2,
+  "code": 6881},
+"JavaScript" :{
+  "nFiles": 31,
+  "blank": 499,
+  "comment": 465,
+  "code": 2461},
+"Python" :{
+  "nFiles": 9,
+  "blank": 364,
+  "comment": 328,
+  "code": 2079},
+"JSX" :{
+  "nFiles": 29,
+  "blank": 168,
+  "comment": 40,
+  "code": 2031},
+"TypeScript" :{
+  "nFiles": 22,
+  "blank": 60,
+  "comment": 3,
+  "code": 670},
+"DOS Batch" :{
+  "nFiles": 4,
+  "blank": 119,
+  "comment": 32,
+  "code": 585},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 86,
+  "comment": 218,
+  "code": 502},
+"SQL" :{
+  "nFiles": 7,
+  "blank": 12,
+  "comment": 3,
+  "code": 129},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 23},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 2995,
+  "comment": 1091,
+  "code": 15376,
+  "nFiles": 362} }
