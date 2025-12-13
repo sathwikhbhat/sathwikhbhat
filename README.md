@@ -93,7 +93,7 @@ _(Where I solve problems, compete, and level up 🚀)_
     <img src="icons/geeks-for-geeks.svg" width="45" alt="GeeksForGeeks"/>
   </a>
    &nbsp;&nbsp;
-  <a href="https://takeuforward.org/plus/profile/sathwikhbhat" target="_blank" title="TakeUForward+ Profile">
+  <a href="https://takeuforward.org/profile/sathwikhbhat" target="_blank" title="TakeUForward+ Profile">
     <img src="icons/tuf-plus.svg" width="40" alt="TUF Plus"/>
   </a>
    &nbsp;&nbsp;
