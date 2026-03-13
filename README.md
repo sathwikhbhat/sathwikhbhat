@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/sathwikhbhat">
-    <img src="https://github-profile-trophy.vercel.app/?username=sathwikhbhat&theme=algolia&margin-w=15&row=1&no-bg=true" />
+    <img src="https://github-profile-trophy-kannan.vercel.app/?username=sathwikhbhat&theme=algolia&margin-w=15&row=1&no-bg=true" />
   </a>
 </p>
 
