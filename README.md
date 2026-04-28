@@ -89,7 +89,7 @@ Kotlin                    -->          3 lines
     <img src="icons/codeforces.svg" width="40" alt="Codeforces"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://geeksforgeeks.org/user/sathwikhbhat/profile" target="_blank" title="GeeksForGeeks">
+  <a href="https://geeksforgeeks.org/profile/sathwikhbhat" target="_blank" title="GeeksForGeeks">
     <img src="icons/geeks-for-geeks.svg" width="45" alt="GeeksForGeeks"/>
   </a>
   &nbsp;&nbsp;
