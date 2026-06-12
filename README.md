@@ -31,7 +31,7 @@ Currently deepening expertise in Data Structures & Algorithms, Spring Boot/Sprin
 [ LANGUAGES BREAKDOWN ]
 
 TypeScript                -->     39,820 lines
-Java                      -->     14,783 lines
+Java                      -->     14,920 lines
 JSX                       -->      6,114 lines
 JavaScript                -->      4,918 lines
 SQL                       -->      2,945 lines
@@ -42,14 +42,14 @@ Bourne Shell              -->        599 lines
 C++                       -->        455 lines
 PowerShell                -->        367 lines
 CMake                     -->        350 lines
-Dockerfile                -->        247 lines
+Dockerfile                -->        258 lines
 C/C++ Header              -->        106 lines
 Windows Resource File     -->         69 lines
 Swift                     -->         57 lines
 Protocol Buffers          -->         24 lines
 Kotlin                    -->          3 lines
 
-[ TOTAL LINES OF CODE: 74,613 ]
+[ TOTAL LINES OF CODE: 74,761 ]
 ```
  <!-- LANGUAGES BREAKDOWN END -->
 
